@@ -1,7 +1,7 @@
 # Install Moonlight for Samsung TV
 
 **This is a fork from https://github.com/Georift original work on https://github.com/Georift/install-jellyfin-tizen.
-I only updated this to be able to install Moonlight on my TV running Tizen OS 8.0. This verstion has issues when installing not signed apps.**
+I only updated this to be able to install Moonlight on my TV running Tizen OS 8.0. This version has issues when installing not signed apps.**
 
 
 1. Uninstall any existing Moonlight installations
